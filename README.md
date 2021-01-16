@@ -1,4 +1,4 @@
-# PresidentialDebate
+# Presidential Debate
 A project for the UMass course CS230
 
 Video Link to Program running: https://youtu.be/DdRWbp93RgA
