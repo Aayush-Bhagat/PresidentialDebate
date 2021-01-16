@@ -1,11 +1,11 @@
 # PresidentialDebate
 A project for the UMass course CS230
 
-Youtube Link: https://youtu.be/DdRWbp93RgA
+Video Link to Program running: https://youtu.be/DdRWbp93RgA
 
 Project Summary: 
-In this project we needed to create 200 threads that represent phone calls to a debate. With these threads we would need to simulate a presidential debate with call coming in.
-In this deabte we have 5 phone lines and 2 operators taking questions from people who are calling. We would need to use thread synchronization so that all the threads can be calling
+In this project we needed to create 200 threads that represent phone calls to a debate. With these threads we would need to simulate a presidential debate with calls coming in.
+In this debate we have 5 phone lines and 2 operators taking questions from people who are calling. We would need to use thread synchronization so that all the threads can be calling
 at once, and there won't be any issues when many phone calls are made. We are given a time for how long the debate lasts, so the operators will only take phone calls in that time
 and stop taking phone call once that time is exceeded. 
 
